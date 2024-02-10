@@ -37,7 +37,7 @@ class _VideoState extends State<Video> {
             onTap: () {
               _isloading = !_isloading;
             },
-            child: Image.asset(Constants.playImg, fit: BoxFit.cover),
+            child: Image.asset( FrConstants.playImg, fit: BoxFit.cover),
           )
       ],
     );

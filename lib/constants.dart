@@ -1,5 +1,4 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
 
 class MyStyle{
@@ -44,7 +43,7 @@ static TextStyle displayLarge() {
   static Color fr_red_= Color(0xFFE23E3E);
   }
 
-class Constants{
+class FrConstants{
   static const String headerText = "How to make french\ntoast";
   static const String bgI = "assets/images/image_13.png";
   static const String playImg = "assets/images/Play_button.png";
