@@ -31,31 +31,31 @@ class Ingredients extends StatelessWidget {
           name:   FrConstants.bread,
           weight:  FrConstants.weight,
         ),
-        SizedBox(height: 15),
+      const  SizedBox(height: 15),
         Recipe(
           image:   FrConstants.coffeeImg ,
           name:   FrConstants.eggs,
           weight:  FrConstants.weight,
         ),
-        SizedBox(height: 15),
+      const  SizedBox(height: 15),
         Recipe(
           image:  FrConstants.burgerImg,
           name:  FrConstants.fish,
           weight:  FrConstants.weight,
         ),
-        SizedBox(height: 15),
+     const   SizedBox(height: 15),
         Recipe(
           image:  FrConstants.coffeeImg ,
           name:  FrConstants.meat,
           weight:  FrConstants.weight,
         ),
-        SizedBox(height: 15),
+       const SizedBox(height: 15),
         Recipe(
           image:   FrConstants.burgerImg,
           name:   FrConstants.onions,
           weight:  FrConstants.weight,
         ),
-        SizedBox(height: 15),
+      const  SizedBox(height: 15),
       ],
     );
   }

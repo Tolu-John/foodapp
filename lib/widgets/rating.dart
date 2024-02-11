@@ -14,12 +14,13 @@ class Rating extends StatelessWidget {
     return  Row(
       mainAxisAlignment: MainAxisAlignment.start,
       children: [
+       
         Icon(
           Icons.star,
           color: Colors.orange.shade400,
           size: 18,
         ),
-        SizedBox(
+      const SizedBox(
           width: 5,
         ),
         Text(
@@ -27,14 +28,14 @@ class Rating extends StatelessWidget {
           style: TextStyle(fontWeight: FontWeight.bold),
 
         ),
-        SizedBox(
+        const SizedBox(
           width: 5,
         ),
         Text(
           "($reviews reviews)",
           style: textTheme.bodySmall,
         ),
-        SizedBox(
+       const SizedBox(
           width: 8,
         ),
       ],
