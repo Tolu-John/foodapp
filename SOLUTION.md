@@ -2,7 +2,7 @@
 
 Food Recipe Mobile Application.
 
-# Project Description
+## Project Description
 
 A user friendly food recipe mobile application developed using flutter framework.
 
@@ -20,6 +20,22 @@ A user friendly food recipe mobile application developed using flutter framework
    ```bash
    flutter pub get
 
+## Code Structure
+- Widgets
+  - appbar widget
+  - author widget
+  - Recipe widget
+  - Video widget
+- Constants
+- HomePage
+- Ingredients
+- Main
+
+## Screenshot
+![Home Screen](/SCREENSHOT 1.jpg "Home Page")
+
+![](/SCREENSHOT 2.jpg)
+   
 ## Usage
 The Food Recipe Mobile Application allows users to perform the following actions:
 
@@ -32,8 +48,8 @@ Share Recipes: Share recipes with friends and family via social media, email, or
 Contributions are welcome! Please follow these guidelines:
 
 ## Fork the repository.
-Create a new branch: git checkout -b feature.
-Make your changes and commit them: git commit -m 'Add feature'.
-Push to the branch: git push origin feature.
-Submit a pull request.
+1. Create a new branch: git checkout -b feature.
+2. Make your changes and commit them: git commit -m 'Add feature'.
+3. Push to the branch: git push origin feature.
+4. Submit a pull request.
    
