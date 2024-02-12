@@ -32,9 +32,8 @@ A user friendly food recipe mobile application developed using flutter framework
 - Main
 
 ## Screenshot
-![Home Screen](/SCREENSHOT 1.jpg "Home Page")
+(/SCREENSHOT 1.jpg)
 
-![](/SCREENSHOT 2.jpg)
    
 ## Usage
 The Food Recipe Mobile Application allows users to perform the following actions:
