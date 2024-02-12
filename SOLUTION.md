@@ -26,6 +26,7 @@ A user friendly food recipe mobile application developed using flutter framework
   - Appbar Widget: Handles the display of the app bar with back and more options buttons.
   - Author Widget: Displays the author's name, image, and location.
   - Recipe Widget: Displays each recipe's name, image, and weight for each ingredient.
+  - Rating Widget: Displays rating and number of values.
   - Video Widget: Manages the display of the video section and the image of the recipe.
 - Constants: Holds constants for styling and text displays that are used throughout the app to maintain consistency and ease of maintenance.
 - HomePage: Defines the layout and logic for the home page, where all recipes are displayed.
@@ -39,6 +40,9 @@ A user friendly food recipe mobile application developed using flutter framework
 
 ## Screenshot
 <img src="https://github.com/Tolu-John/foodapp/blob/main/SCREENSHOT%201.jpg" alt="Recipe app" width="400"/>
+
+
+
 
 
    
