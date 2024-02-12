@@ -32,7 +32,7 @@ A user friendly food recipe mobile application developed using flutter framework
 - Main
 
 ## Screenshot
-(/SCREENSHOT 1.jpg)
+![Recipe app](https://github.com/Tolu-John/foodapp/blob/main/SCREENSHOT%201.jpg)
 
    
 ## Usage
